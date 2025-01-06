@@ -1,3 +1,44 @@
 #i am harivardhan 
 #i am student in mallareddyuniversity 
-#
+#day 4:
+Variables:
+	Variables are containers/memory blocks to store the data .
+	Static typed and dynamic typed.
+	Variables case sensitive, start with letters, _(underscore),$(dollaresign).
+	Cannot start with numbers.
+	Reserved words(keywords) not allowed
+	Allow letters, _ (underscore),$(dollaresign) ,numbers.
+
+Types of varibales:
+	Var  1995-
+	let
+	const
+Identifiers:-these are names given for memory
+How to declare variables:
+	var
+	let
+	const
+1).reassigning with let is possible
+2) reassigning with var is possible
+3) . reassigning with const not possible
+
+Redeclaring with var is accepted:
+Ex:
+Var a=5;
+Var a=1;
+document.write(a+a)
+console.log(a+a)
+//op:2
+
+Redeclaring with let is not accepted:
+Ex:
+let a=5;
+let a=1;
+document.write(a+a)
+console.log(a+a)
+//op:error
+Redeclaring with const is not accepted:
+
+Blockscope:
+Variables 
+
